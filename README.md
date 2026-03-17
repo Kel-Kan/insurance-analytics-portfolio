@@ -7,4 +7,5 @@ A collection of data analytics projects focused on insurance risk analysis, buil
 - Power BI 
 
 ## Projects
-- Week 1: Loss ratio analysis and policy profitability (in progress)
+- Week 1 Day 1: Loss ratio analysis and policy profitability (in progress)
+- Week 1 Day 2: Customer risk segmentation and portfolio analysis (complete)
