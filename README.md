@@ -9,3 +9,4 @@ A collection of data analytics projects focused on insurance risk analysis, buil
 ## Projects
 - Week 1 Day 1: Loss ratio analysis and policy profitability (in progress)
 - Week 1 Day 2: Customer risk segmentation and portfolio analysis (complete)
+- Week 1 Day 3: Medical cost dataset exploration - BMI, smoking, and charge analysis (complete)
