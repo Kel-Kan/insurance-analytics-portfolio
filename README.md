@@ -17,5 +17,5 @@ A collection of data analytics projects focused on insurance risk analysis, buil
 
 ## Insights and recommendations
 - Week 1 Day 3: I recommend the business establish a threshold on how many customers they enroll in their highest-risk category: obese smokers. Although smokers generate nearly half of premium revenue, they represent the highest financial risk. The business should explore strategies to better price or mitigate this exposure.
-- Week 1 Day 4: Ohio has the highest fraud rate (%25.9) and highest total claims ($18.5M), I would recommend investigation claim type as a fraud predictor. 
+- Week 1 Day 4: Ohio has the highest fraud rate (25.9%) and highest total claims ($18.5M), I would recommend investigation claim type as a fraud predictor. 
 - Week 1 Friday Project: Single vehicle collision claims have the highest fraud rate at 29%, which can be explained by the absence of independent witnesses, making these incidents easier to fabricate. Rear collision claims have the highest fraud rate within collision types at 31.2%, likely because they are easily staged. I would recommend the company request specific documentation for these claim types such as dashcam footage and mandatory authority investigations. As well, apply more rigorous scrutiny before approving payouts.
