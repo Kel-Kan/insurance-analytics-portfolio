@@ -27,6 +27,6 @@ A collection of data analytics projects focused on insurance risk analysis, buil
 
 ## Insights and recommendations
 - Day 3 analysis:
-  - Incident severity: Minor damage represents the largest share of claims at 35.4%, however Total Loss and Major Damage combined account for 55.6% — meaning the majority of incidents are serious and carry high payout risk.
-  - Claim cost by incident type: Single vehicle and multi-vehicle collisions together represent over 99% of total claims cost ($25.9M and $25.8M respectively). Vehicle theft and parked car incidents are negligible by comparison.
-  - Combined finding: Single vehicle collisions are the highest priority risk segment across three independent dimensions — highest fraud rate (29%, Week 1), highest total claims cost ($25.9M), and highest average claim amount when severity is major ($65,965). Recommend prioritizing this segment  for fraud investigation, documentation requirements, and pricing review.
+  - **Incident severity:** Minor damage represents the largest share of claims at 35.4%, however Total Loss and Major Damage combined account for 55.6% — meaning the majority of incidents are serious and carry high payout risk.
+  - **Claim cost by incident type:** Single vehicle and multi-vehicle collisions together represent over 99% of total claims cost ($25.9M and $25.8M respectively). Vehicle theft and parked car incidents are negligible by comparison.
+  - **Combined finding:** Single vehicle collisions are the highest priority risk segment across three independent dimensions — highest fraud rate (29%, Week 1), highest total claims cost ($25.9M), and highest average claim amount when severity is major ($65,965). Recommend prioritizing this segment  for fraud investigation, documentation requirements, and pricing review.
