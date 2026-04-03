@@ -16,17 +16,21 @@ A collection of data analytics projects focused on insurance risk analysis, buil
   analysis — incident type, collision type, state fraud rates (complete)
 
 ## Insights and recommendations
-- Week 1 Day 3: I recommend the business establish a threshold on how many customers they enroll in their highest-risk category: obese smokers. Although smokers generate nearly half of premium revenue, they represent the highest financial risk. The business should explore strategies to better price or mitigate this exposure.
-- Week 1 Day 4: Ohio has the highest fraud rate (25.9%) and highest total claims ($18.5M), I would recommend investigation claim type as a fraud predictor. 
-- Week 1 Friday Project: Single vehicle collision claims have the highest fraud rate at 29%, which can be explained by the absence of independent witnesses, making these incidents easier to fabricate. Rear collision claims have the highest fraud rate within collision types at 31.2%, likely because they are easily staged. I would recommend the company request specific documentation for these claim types such as dashcam footage and mandatory authority investigations. As well, apply more rigorous scrutiny before approving payouts.
+
+### Week 1
+- Day 3: I recommend the business establish a threshold on how many customers they enroll in their highest-risk category: obese smokers. Although smokers generate nearly half of premium revenue, they represent the highest financial risk. The business should explore strategies to better price or mitigate this exposure.
+- Day 4: Ohio has the highest fraud rate (25.9%) and highest total claims ($18.5M), I would recommend investigation claim type as a fraud predictor. 
+- Friday Project: Single vehicle collision claims have the highest fraud rate at 29%, which can be explained by the absence of independent witnesses, making these incidents easier to fabricate. Rear collision claims have the highest fraud rate within collision types at 31.2%, likely because they are easily staged. I would recommend the company request specific documentation for these claim types such as dashcam footage and mandatory authority investigations. As well, apply more rigorous scrutiny before approving payouts.
+
+### Week 2 
+- Day 3 Analysis:
+  - **Incident severity:** Minor damage represents the largest share of claims at 35.4%, however Total Loss and Major Damage combined account for 55.6% — meaning the majority of incidents are serious and carry high payout risk.
+  - **Claim cost by incident type:** Single vehicle and multi-vehicle collisions together represent over 99% of total claims cost ($25.9M and $25.8M respectively). Vehicle theft and parked car incidents are negligible by comparison.
+  - **Combined finding:** Single vehicle collisions are the highest priority risk segment across three independent dimensions — highest fraud rate (29%, Week 1), highest total claims cost ($25.9M), and highest average claim amount when severity is major ($65,965). Recommend prioritizing this segment  for fraud investigation, documentation requirements, and pricing review.
 
 ### Week 2 SQL practice
 - Day 1: Built insurance database, first SQL queries — SELECT, GROUP BY, COUNT
 - Day 2: WHERE, ORDER BY, LIMIT, CASE WHEN, LEFT JOIN
 - Day 3: Real dataset analysis — incident severity and claim amount by type (complete)
 
-## Insights and recommendations
-- Day 3 Analysis:
-  - **Incident severity:** Minor damage represents the largest share of claims at 35.4%, however Total Loss and Major Damage combined account for 55.6% — meaning the majority of incidents are serious and carry high payout risk.
-  - **Claim cost by incident type:** Single vehicle and multi-vehicle collisions together represent over 99% of total claims cost ($25.9M and $25.8M respectively). Vehicle theft and parked car incidents are negligible by comparison.
-  - **Combined finding:** Single vehicle collisions are the highest priority risk segment across three independent dimensions — highest fraud rate (29%, Week 1), highest total claims cost ($25.9M), and highest average claim amount when severity is major ($65,965). Recommend prioritizing this segment  for fraud investigation, documentation requirements, and pricing review.
+
