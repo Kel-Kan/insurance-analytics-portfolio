@@ -7,7 +7,7 @@ A collection of data analytics projects focused on insurance risk analysis, buil
 - Power BI 
 
 ## Projects
-### Week 1 practice notebooks
+### Week 1 Python practice
 - Day 1: Policy loss ratio analysis and profitability screening (complete)
 - Day 2: Customer risk segmentation — 6 policy portfolio (complete)
 - Day 3: Medical cost dataset exploration — BMI, smoking, 
