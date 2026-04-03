@@ -7,6 +7,7 @@ A collection of data analytics projects focused on insurance risk analysis, buil
 - Power BI 
 
 ## Projects
+
 ### Week 1 Python practice
 - Day 1: Policy loss ratio analysis and profitability screening (complete)
 - Day 2: Customer risk segmentation — 6 policy portfolio (complete)
@@ -14,6 +15,11 @@ A collection of data analytics projects focused on insurance risk analysis, buil
   and charge analysis (complete)
 - Day 4 & 5 / Friday Project: Auto insurance fraud predictor 
   analysis — incident type, collision type, state fraud rates (complete)
+
+### Week 2 SQL practice
+- Day 1: Built insurance database, first SQL queries — SELECT, GROUP BY, COUNT
+- Day 2: WHERE, ORDER BY, LIMIT, CASE WHEN, LEFT JOIN
+- Day 3: Real dataset analysis — incident severity and claim amount by type (complete)
 
 ## Insights and recommendations
 
@@ -28,9 +34,5 @@ A collection of data analytics projects focused on insurance risk analysis, buil
   - **Claim cost by incident type:** Single vehicle and multi-vehicle collisions together represent over 99% of total claims cost ($25.9M and $25.8M respectively). Vehicle theft and parked car incidents are negligible by comparison.
   - **Combined finding:** Single vehicle collisions are the highest priority risk segment across three independent dimensions — highest fraud rate (29%, Week 1), highest total claims cost ($25.9M), and highest average claim amount when severity is major ($65,965). Recommend prioritizing this segment  for fraud investigation, documentation requirements, and pricing review.
 
-### Week 2 SQL practice
-- Day 1: Built insurance database, first SQL queries — SELECT, GROUP BY, COUNT
-- Day 2: WHERE, ORDER BY, LIMIT, CASE WHEN, LEFT JOIN
-- Day 3: Real dataset analysis — incident severity and claim amount by type (complete)
 
 
