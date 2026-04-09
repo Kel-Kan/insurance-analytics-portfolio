@@ -10,16 +10,19 @@ A collection of data analytics projects focused on insurance risk analysis, buil
 
 ### Week 1 Python practice
 - Day 1: Policy loss ratio analysis and profitability screening (complete)
-- Day 2: Customer risk segmentation — 6 policy portfolio (complete)
-- Day 3: Medical cost dataset exploration — BMI, smoking, 
+- Day 2: Customer risk segmentation: 6 policy portfolio (complete)
+- Day 3: Medical cost dataset exploration: BMI, smoking, 
   and charge analysis (complete)
 - Day 4 & 5 / Friday Project: Auto insurance fraud predictor 
-  analysis — incident type, collision type, state fraud rates (complete)
+  analysis: incident type, collision type, state fraud rates (complete)
 
 ### Week 2 SQL practice
-- Day 1: Built insurance database, first SQL queries — SELECT, GROUP BY, COUNT
+- Day 1: Built insurance database, first SQL queries: SELECT, GROUP BY, COUNT
 - Day 2: WHERE, ORDER BY, LIMIT, CASE WHEN, LEFT JOIN
-- Day 3: Real dataset analysis — incident severity and claim amount by type (complete)
+- Day 3: Real dataset analysis: incident severity and claim amount by type (complete)
+
+### Portfolio Project 1 (in progress)
+- Auto insurance claims analysis: fraud predictors, cost by segment, risk patterns
 
 ## Insights and recommendations
 
