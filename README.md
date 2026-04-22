@@ -27,7 +27,7 @@ Auto insurance claims analysis: fraud predictors, cost by segment, risk patterns
 - Question 1: Fraud rate by incident type — complete
   Single vehicle collision has highest fraud rate at 29.0%
 - Question 2: Serious vs minor claim cost by state — complete
-  Serious claims dominate every state; SC leads at 9.17M
+  Serious claims dominate every state; SC leads at $9.17M
 - Question 3: Collision type portfolio breakdown + police report gaps — pending
 - Question 4: Deep dive — single vehicle collisions by age and region — pending
 
