@@ -21,16 +21,14 @@ A collection of data analytics projects focused on insurance risk analysis, buil
 - Day 2: WHERE, ORDER BY, LIMIT, CASE WHEN, LEFT JOIN
 - Day 3: Real dataset analysis: incident severity and claim amount by type (complete)
 
-### Portfolio Project 1 (in progress)
-Auto insurance claims analysis: fraud predictors, cost by segment, risk patterns
+### Portfolio Project 1 (complete)
+Auto insurance claims analysis: fraud predictors, cost by segment, risk patterns across 1,000 claims in 7 states
 
-- Question 1: Fraud rate by incident type — complete
-  Single vehicle collision has highest fraud rate at 29.0%
-- Question 2: Serious vs minor claim cost by state — complete
-  Serious claims dominate every state; SC leads at $9.17M
-- Question 3: Collision type portfolio breakdown + police report gaps — pending
-- Question 4: Deep dive — single vehicle collisions by age and region — pending
-
+- Question 1: Fraud rate by incident type — single vehicle collision has highest fraud rate at 29.0%
+- Question 2: Serious vs minor claim cost by state - serious claims dominate every state; SC leads at $9.17M
+- Question 3: Police report gaps — 68% of collision claims unconfirmed, systemic issue
+- Question 4: Single vehicle deep dive — SC and NC are fraud hotspots
+  
 ## Insights and recommendations
 
 ### Week 1
