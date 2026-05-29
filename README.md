@@ -22,14 +22,13 @@ A collection of data analytics projects focused on insurance risk analysis, buil
 - Day 3: Real dataset analysis: incident severity and claim amount by type (complete)
 
 ### Portfolio Project 1 (complete)
-Auto insurance claims analysis: fraud predictors, cost by segment, risk patterns across 1,000 claims in 7 states
+Auto insurance claims analysis: fraud predictors, cost by segment, risk patterns across 1,000 claims in 7 states. 
+Includes Power BI dashboard with KPI summary and fraud analysis.
 
 - Question 1: Fraud rate by incident type — single vehicle collision has highest fraud rate at 29.0%
 - Question 2: Serious vs minor claim cost by state - serious claims dominate every state; SC leads at $9.17M
 - Question 3: Police report gaps — 68% of collision claims unconfirmed, systemic issue
 - Question 4: Single vehicle deep dive — SC and NC are fraud hotspots
-
-Power BI dashboard: KPI summary, fraud analysis, claims by incident type
 
 ### Week 3 independent practice
 - Rebuilt Project 1 analysis from memory — filtering, groupby, 
