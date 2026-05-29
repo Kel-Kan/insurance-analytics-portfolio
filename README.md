@@ -28,7 +28,8 @@ Auto insurance claims analysis: fraud predictors, cost by segment, risk patterns
 - Question 2: Serious vs minor claim cost by state - serious claims dominate every state; SC leads at $9.17M
 - Question 3: Police report gaps — 68% of collision claims unconfirmed, systemic issue
 - Question 4: Single vehicle deep dive — SC and NC are fraud hotspots
-- Power BI dashboard: KPI summary, fraud analysis, claims by incident type (complete)
+
+Power BI dashboard: KPI summary, fraud analysis, claims by incident type (complete)
   
 ### Week 3 independent practice
 - Rebuilt Project 1 analysis from memory — filtering, groupby, 
