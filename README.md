@@ -34,7 +34,7 @@ Includes Power BI dashboard with KPI summary and fraud analysis.
 - Rebuilt Project 1 analysis from memory — filtering, groupby, 
   fraud rate visualization without reference
 
-### ### Portfolio Project 2 (in progress)
+### Portfolio Project 2 (in progress)
 Medical insurance risk segmentation — pricing drivers analysis
 - Risk tier creation: Very High, High, Medium, Low (complete)
 - Question 1: Regional pricing by risk tier (complete)
