@@ -42,7 +42,7 @@ Medical insurance risk segmentation — pricing drivers analysis
   secondary driver; risk tier dominates (complete)
 - Question 2: Age vs pricing by risk tier — age nearly triples 
   premiums for low risk but adds only 24% for Very High risk (complete)
-- Question 3: Regression model — charge prediction (pending)
+- Question 3: Regression model —— R² 0.84, smoking dominant predictor at $23,258 coefficient (complete)
 - Question 4: Power BI dashboard (pending)
 
 ## Insights and recommendations
@@ -60,12 +60,8 @@ Medical insurance risk segmentation — pricing drivers analysis
 
 ### Week 4
 - Project 2
-  - Risk tier is the dominant pricing driver — a Very High risk 
-  customer pays 5x more than Low risk regardless of region
-  - Age nearly triples premiums for healthy non-smokers but adds 
-  only 24% for obese smokers — behavioral factors overshadow 
-  demographic ones at high risk levels
-  - Recommendation: insurers should weight smoking status and BMI 
-  heavily in underwriting models; age alone is insufficient as 
-  a pricing signal for high-risk segments
+  - Risk tier is the dominant pricing driver — a Very High risk customer pays 5x more than Low risk regardless of region
+  - Age nearly triples premiums for healthy non-smokers but adds only 24% for obese smokers — behavioral factors overshadow demographic ones at high risk levels
+  - Recommendation: insurers should weight smoking status and BMI heavily in underwriting models; age alone is insufficient as a pricing signal for high-risk segments
+  - Regression model: smoking status adds $23,258 to predicted charges on average — nearly 4x stronger than risk tier. Behavioral factors dominate demographic and geographic ones in insurance pricing.
 
