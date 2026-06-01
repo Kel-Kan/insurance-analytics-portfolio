@@ -58,14 +58,14 @@ Medical insurance risk segmentation — pricing drivers analysis
   - **Claim cost by incident type:** Single vehicle and multi-vehicle collisions together represent over 99% of total claims cost ($25.9M and $25.8M respectively). Vehicle theft and parked car incidents are negligible by comparison.
   - **Combined finding:** Single vehicle collisions are the highest priority risk segment across three independent dimensions; highest fraud rate (29%, Week 1), highest total claims cost ($25.9M), and highest average claim amount when severity is major ($65,965). Recommend prioritizing this segment  for fraud investigation, documentation requirements, and pricing review.
 
-## Week 4
-### Project 2
-- Risk tier is the dominant pricing driver — a Very High risk 
+### Week 4
+- Project 2
+  - Risk tier is the dominant pricing driver — a Very High risk 
   customer pays 5x more than Low risk regardless of region
-- Age nearly triples premiums for healthy non-smokers but adds 
+  - Age nearly triples premiums for healthy non-smokers but adds 
   only 24% for obese smokers — behavioral factors overshadow 
   demographic ones at high risk levels
-- Recommendation: insurers should weight smoking status and BMI 
+  - Recommendation: insurers should weight smoking status and BMI 
   heavily in underwriting models; age alone is insufficient as 
   a pricing signal for high-risk segments
 
