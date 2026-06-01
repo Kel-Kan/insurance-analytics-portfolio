@@ -36,9 +36,14 @@ Includes Power BI dashboard with KPI summary and fraud analysis.
 
 ### Portfolio Project 2 (in progress)
 Medical insurance risk segmentation — pricing drivers analysis
+
 - Risk tier creation: Very High, High, Medium, Low (complete)
-- Question 1: Regional pricing by risk tier (complete)
-- Question 2: Age vs pricing by risk tier — pending
+- Question 1: Regional pricing by risk tier — region is a weak 
+  secondary driver; risk tier dominates (complete)
+- Question 2: Age vs pricing by risk tier — age nearly triples 
+  premiums for low risk but adds only 24% for Very High risk (complete)
+- Question 3: Regression model — charge prediction (pending)
+- Question 4: Power BI dashboard (pending)
 
 ## Insights and recommendations
 
@@ -53,5 +58,14 @@ Medical insurance risk segmentation — pricing drivers analysis
   - **Claim cost by incident type:** Single vehicle and multi-vehicle collisions together represent over 99% of total claims cost ($25.9M and $25.8M respectively). Vehicle theft and parked car incidents are negligible by comparison.
   - **Combined finding:** Single vehicle collisions are the highest priority risk segment across three independent dimensions; highest fraud rate (29%, Week 1), highest total claims cost ($25.9M), and highest average claim amount when severity is major ($65,965). Recommend prioritizing this segment  for fraud investigation, documentation requirements, and pricing review.
 
-
+## Week 4
+### Project 2
+- Risk tier is the dominant pricing driver — a Very High risk 
+  customer pays 5x more than Low risk regardless of region
+- Age nearly triples premiums for healthy non-smokers but adds 
+  only 24% for obese smokers — behavioral factors overshadow 
+  demographic ones at high risk levels
+- Recommendation: insurers should weight smoking status and BMI 
+  heavily in underwriting models; age alone is insufficient as 
+  a pricing signal for high-risk segments
 
