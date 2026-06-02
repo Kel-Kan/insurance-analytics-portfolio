@@ -34,7 +34,7 @@ Includes Power BI dashboard with KPI summary and fraud analysis.
 - Rebuilt Project 1 analysis from memory — filtering, groupby, 
   fraud rate visualization without reference
 
-### Portfolio Project 2 (in progress)
+### Portfolio Project 2 (complete)
 Medical insurance risk segmentation — pricing drivers analysis
 
 - Risk tier creation: Very High, High, Medium, Low (complete)
@@ -43,7 +43,7 @@ Medical insurance risk segmentation — pricing drivers analysis
 - Question 2: Age vs pricing by risk tier — age nearly triples 
   premiums for low risk but adds only 24% for Very High risk (complete)
 - Question 3: Regression model —— R² 0.84, smoking dominant predictor at $23,258 coefficient (complete)
-- Question 4: Power BI dashboard (pending)
+- Question 4: Power BI dashboard — 3-page interactive dashboard; risk overview, regional and demographic analysis, predictive insights (complete)
 
 ## Insights and recommendations
 
