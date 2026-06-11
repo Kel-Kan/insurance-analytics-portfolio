@@ -7,6 +7,8 @@ A collection of data analytics projects focused on insurance risk analysis, buil
 - Power BI 
 
 ## Projects
+*Progression from guided practice (Weeks 1-2) to independent portfolio projects (Projects 1-3) with complexity increasing 
+across each project.*
 
 ### Week 1 Python practice
 - Day 1: Policy loss ratio analysis and profitability screening (complete)
@@ -44,6 +46,12 @@ Medical insurance risk segmentation — pricing drivers analysis
   premiums for low risk but adds only 24% for Very High risk (complete)
 - Question 3: Regression model —— R² 0.84, smoking dominant predictor at $23,258 coefficient (complete)
 - Question 4: Power BI dashboard — 3-page interactive dashboard; risk overview, regional and demographic analysis, predictive insights (complete)
+
+### Project 2 independent rebuild (complete)
+- Rebuilt entire Project 2 from memory with minimal references
+- BMI categorization, risk tier function, regional and age analysis
+- Regression model — R²=0.84, smoking dominant predictor confirmed
+- Found and fixed percentage calculation bug from original project
 
 ## Insights and recommendations
 
