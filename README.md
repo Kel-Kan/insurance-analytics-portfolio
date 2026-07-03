@@ -53,6 +53,24 @@ Medical insurance risk segmentation — pricing drivers analysis
 - Regression model — R²=0.84, smoking dominant predictor confirmed
 - Found and fixed percentage calculation bug from original project
 
+### Portfolio Project 3 (complete)
+Insurance fraud detection model — classification and risk scoring
+
+- Model 1: Logistic Regression — fraud recall 0.35, ROC-AUC 0.838
+- Model 2: Decision Tree (selected) — fraud recall 0.71, ROC-AUC 0.763
+- Selected Decision Tree based on superior fraud recall; missing fraud carries 
+  higher cost than false alerts in insurance context
+- Generated fraud probability scores and risk tiers (High/Medium/Low) for 
+  all 1,000 claims — exported for Power BI dashboard
+- Power BI dashboard: 4 pages — Executive Summary, Flagged Claims Table, 
+  Risk Factor Analysis, Model Performance
+- Accessible color scheme (orange/blue/gray) applied consistently across all pages
+
+**Cross-project finding:** Single vehicle collision fraud rate (29.0%) confirmed 
+as highest-risk segment — consistent with Project 1's descriptive analysis and 
+this model's predictions. Two independent methods on the same dataset, same 
+conclusion.
+
 ## Insights and recommendations
 
 ### Week 1
@@ -73,3 +91,13 @@ Medical insurance risk segmentation — pricing drivers analysis
   - Recommendation: insurers should weight smoking status and BMI heavily in underwriting models; age alone is insufficient as a pricing signal for high-risk segments
   - Regression model: smoking status adds $23,258 to predicted charges on average — nearly 4x stronger than risk tier. Behavioral factors dominate demographic and geographic ones in insurance pricing.
 
+### Week 7
+
+- Project 3: Single vehicle collision confirmed as highest fraud rate segment 
+  (29.0%) by the classification model — independently replicating Project 1's 
+  finding using a completely different method (predictive vs descriptive)
+- Decision Tree selected over Logistic Regression: higher recall (0.71 vs 0.35) 
+  is the correct optimization target when false negatives carry higher business 
+  cost than false positives
+- Incident severity and insured hobbies account for 83% of model predictive 
+  weight — concentration in two features noted as a model limitation
