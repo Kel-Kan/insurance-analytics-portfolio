@@ -25,8 +25,8 @@ regression model to predict insurance charges.
 - Power BI: 3-page interactive dashboard
 
 ## Files
-- [Python Analysis Notebook](../project2_medical_insurance_risk_segmentation.ipynb)
-- [Power BI Dashboard PDF](../project2_medical_insurance_dashboard.pdf)
+- [Python Analysis Notebook](https://nbviewer.org/github/Kel-Kan/insurance-analytics-portfolio/blob/main/project2_medical_insurance_risk_segmentation.ipynb)
+- https://github.com/Kel-Kan/insurance-analytics-portfolio/raw/main/project2_medical_insurance_dashboard.pdf
 
 ## Recommendation
 Insurers should weight smoking status and BMI heavily in underwriting 
