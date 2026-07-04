@@ -20,8 +20,8 @@ fraud predictors, high-cost segments, and risk patterns.
 - Power BI: interactive dashboard with KPI summary and fraud analysis
 
 ## Files
-- [Python Analysis Notebook](../project1_auto_insurance_claims_analysis.ipynb)
-- [Power BI Dashboard PDF](../project1_insurance_dashboard.pdf) 
+- [Python Analysis Notebook](https://nbviewer.org/github/Kel-Kan/insurance-analytics-portfolio/blob/main/project1_auto_insurance_claims_analysis.ipynb)
+- [Power BI Dashboard PDF](https://github.com/Kel-Kan/insurance-analytics-portfolio/blob/main/project1_insurance_dashboard.pdf?raw=true)
 
 ## Recommendation
 Prioritize SC and NC for fraud investigation resources. Implement 
