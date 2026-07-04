@@ -21,8 +21,8 @@ fraud predictors, high-cost segments, and risk patterns.
 
 ## Files
 - [Python Analysis Notebook](https://nbviewer.org/github/Kel-Kan/insurance-analytics-portfolio/blob/main/project1_auto_insurance_claims_analysis.ipynb)
-- [Power BI Dashboard PDF](https://github.com/Kel-Kan/insurance-analytics-portfolio/blob/main/project1_insurance_dashboard.pdf?raw=true)
-
+- https://github.com/Kel-Kan/insurance-analytics-portfolio/raw/main/project1_insurance_dashboard.pdf
+  
 ## Recommendation
 Prioritize SC and NC for fraud investigation resources. Implement 
 mandatory police report submission for all collision claims. Focus 
