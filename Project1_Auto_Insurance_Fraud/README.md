@@ -21,7 +21,7 @@ fraud predictors, high-cost segments, and risk patterns.
 
 ## Files
 - [Python Analysis Notebook](../project1_auto_insurance_claims_analysis.ipynb)
-- [Power BI Dashboard PDF](../project1_insurance_dashboard.pdf)
+- [Power BI Dashboard PDF](../project1_insurance_dashboard.pdf) 
 
 ## Recommendation
 Prioritize SC and NC for fraud investigation resources. Implement 
