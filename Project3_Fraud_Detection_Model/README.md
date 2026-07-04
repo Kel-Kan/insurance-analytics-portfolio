@@ -35,8 +35,8 @@ costly than a false alarm.
 - Power BI: interactive fraud risk dashboard
 
 ## Files
-- [Python Analysis Notebook](../project3_fraud_detection_model.ipynb)
-- [Power BI Dashboard PDF](../Project3_Fraud_Detection_model_dashboard.pdf)
+- [Python Analysis Notebook](https://nbviewer.org/github/Kel-Kan/insurance-analytics-portfolio/blob/main/project3_fraud_detection_model.ipynb)
+- https://github.com/Kel-Kan/insurance-analytics-portfolio/raw/main/Project3_Fraud_Detection_model_dashboard.pdf
 
 ## Recommendation
 Deploy Decision Tree model to flag high-probability fraud claims 
